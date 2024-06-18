@@ -1,0 +1,9 @@
+druk op de knop rechts onder resolve merge editor
+accept alle 2 de windows 
+click dan op complete merge
+type dan git commit -m "test5"
+dan git push
+
+
+
+
